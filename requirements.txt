@@ -5,5 +5,5 @@ opencv-python
 seaborn
 matplotlib
 skinter
-PIL
+Pillow
 ipykernel
