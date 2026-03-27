@@ -1,0 +1,9 @@
+torch
+torchvision
+scikit-learn
+opencv-python
+seaborn
+matplotlib
+skinter
+PIL
+ipykernel
